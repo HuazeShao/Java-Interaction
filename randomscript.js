@@ -34,7 +34,6 @@ function generateLine(){
   var randomLineIndex = Math.floor(Math.random()*randompoem.length);
   outputLines.innerText = currentInputText + " " + ", here are poem lines for you: " + randompoem[randomLineIndex];
   newstyleOutput();
-
 }
 
 function newstyleOutput() {
@@ -52,5 +51,4 @@ function newstyleOutput() {
   outputLines.style.backgroundColor = outputseconColorString;
 
   document.getElementById("outputText").style.fontSize = Math.floor((Math.random() * 30 +2)+"px";
-  console.log(randomSize)
 }
