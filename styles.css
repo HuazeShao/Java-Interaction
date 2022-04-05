@@ -1,0 +1,24 @@
+*{
+  box-sizing: border-box;
+}
+
+body,html{
+  padding:0px;
+  margin:0px;
+}
+
+body{
+  background-color: rgb(34, 48, 35);
+  font-family: 'Lato', sans-serif;
+  padding-left: 2vw;
+}
+
+h1{
+  font-size: 9.3vw;
+  color: rgb(217, 217, 217);
+}
+
+p{
+  font-size: 2vw;
+  color: rgb(217, 217, 217);
+}
