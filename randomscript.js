@@ -49,6 +49,4 @@ function newstyleOutput() {
   var outputseconColorString = "rgb(" + randomR2 + "," + randomG2 + "," + randomB2 + ")";
   outputLines.style.color = outputColorString;
   outputLines.style.backgroundColor = outputseconColorString;
-
-  document.getElementById("outputText").style.fontSize = Math.floor((Math.random() * 30 +2)+"px";
 }
