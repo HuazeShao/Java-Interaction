@@ -8,9 +8,7 @@ var randompoem = ["Words, words were truly alive on the tongue, in the head. War
 
 "No man is an island, entire of itself, every man is a piece of the continent, a part of the main.",
 
-
 "You do not have to be good. You do not have to walk on your knees. For a hundred miles through the desert, repenting. You only have to let the soft animal of your body, love what it loves.",
-
 
 "For I have known them all already, known them all: Have known the evenings, mornings, afternoons; I have measured out my life with coffee spoons."
 ];
